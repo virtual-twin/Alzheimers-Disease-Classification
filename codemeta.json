@@ -1,0 +1,57 @@
+{
+    "@context": "https://w3id.org/codemeta/3.0",
+    "type": "SoftwareSourceCode",
+    "applicationCategory": "Neuroscience",
+    "author": [
+        {
+            "id": "https://orcid.org/0000-0003-4849-732X",
+            "type": "Person",
+            "affiliation": {
+                "type": "Organization",
+                "name": "Berlin Institute of Health, Charité Universitätsmedizin Berlin"
+            },
+            "email": "kiretd@gmail.com",
+            "familyName": "Dhindsa",
+            "givenName": "Kiret"
+        }
+    ],
+    "codeRepository": "https://git.bihealth.org/dhindsaj/Alzheimers-Disease-Classification",
+    "contributor": {
+        "id": "_:contributor_1",
+        "type": "Person",
+        "affiliation": {
+            "type": "Organization",
+            "name": "Berlin Institute of Health, Charité Universitätsmedizin Berlin"
+        },
+        "email": "petra.ritter@bih-charite.de",
+        "familyName": "Ritter",
+        "givenName": "Petra"
+    },
+    "dateCreated": "2025-10-06",
+    "datePublished": "2025-10-06",
+    "description": "ML Classification of Alzheimer's Disease vs. Mild Cognitive Impairment vs. Healthy Controls by combining empirical and simulated features as implemented for Triebkorn et al. 2022 ",
+    "funder": {
+        "type": "Organization",
+        "name": "EU Horizon, Berlin Institute of Health"
+    },
+    "identifier": "10.5281/zenodo.17280825",
+    "keywords": [
+        "Alzheimer's Disease",
+        "Machine Learning",
+        "neuroimaging",
+        "classification",
+        "PET",
+        "fMRI",
+        "EEG"
+    ],
+    "license": "https://spdx.org/licenses/GPL-3.0-or-later",
+    "name": "Alzheimer's Disease Classification with Simulated and Empirical Features",
+    "programmingLanguage": "Python 3",
+    "relatedLink": [
+        "https://alz-journals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/trc2.12303",
+        "https://github.com/kiretd/Alzheimers-Disease-Classification"
+    ],
+    "funding": "y EU H2020 Virtual Brain Cloud 826421, Human Brain Project SGA2 785907; Human Brain Project SGA3 945539, ERC Consolidator 683049; German Research Foundation SFB 1436 (project ID 425899996); SFB 1315 (project ID 327654276); SFB 936 (project ID 178316478; SFB-TRR 295 (project ID 424778381); SPP Computational Connectomics RI 2073/6-1, RI 2073/10-2, RI 2073/9-1; PHRASE Horizon EIC grant 101058240;",
+    "issueTracker": "https://github.com/kiretd/Alzheimers-Disease-Classification/issues",
+    "referencePublication": " 10.1002/trc2.12303"
+}
