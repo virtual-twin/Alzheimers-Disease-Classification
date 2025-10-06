@@ -7,8 +7,11 @@ For details, see our [published manuscript](https://alz-journals.onlinelibrary.w
 This code was written specifically to use the dataset used in the aforementioned publication. However, to make use of this code for your own dataset, simply replace the data loading section with your own data loader, making sure to follow the following data formats:
 
 *Xdict* is a dictionary containing the different feature matrices of shape N_subjects x N_features each. There can be any number of such feature matrices.
+
 *Y* is a 1-dim array of class labels.
+
 *emp_varnames* is a list of strings identifying which items in *Xdict* are empirical features.
+
 *sim_varnames* is a list of strings identifying which items in *Xdict* are simulated features.
 
 ### Acknowledgements
