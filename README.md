@@ -22,7 +22,7 @@ of dementia." Alzheimer's & Dementia: Translational Research & Clinical Interven
 8.1 (2022): e12303.
 
 2. Dhindsa, K. (2025). Combining Simulated and Empirical Features in Alzeihmer's Disease Classification (Version 1.0.0) [Computer software]
-   (*Or use the citation generator in the sidebar of the original repo at https://github.com/kiretd/Alzheimers-Disease-Classification/ *)
+   (*Or use the citation generator in the sidebar of the original repo at [https://github.com/kiretd/Alzheimers-Disease-Classification/](https://github.com/kiretd/Alzheimers-Disease-Classification/tree/main) *)
 
 ### Maintenance
 This code is maintained and owned by Kiret Dhindsa (kiretd@gmail.com or jaskiret.dhindsa@bih-charite.de)
