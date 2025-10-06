@@ -21,7 +21,8 @@ If you use or reference this code, please cite our publication and this code as 
 of dementia." Alzheimer's & Dementia: Translational Research & Clinical Interventions 
 8.1 (2022): e12303.
 
-2. 
+2. Dhindsa, K. (2025). Combining Simulated and Empirical Features in Alzeihmer's Disease Classification (Version 1.0.0) [Computer software]
+   (*Or use the citation generator in the sidebar*)
 
 ### Maintenance
 This code is maintained and owned by Kiret Dhindsa (kiretd@gmail.com or jaskiret.dhindsa@bih-charite.de)
