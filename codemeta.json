@@ -44,7 +44,7 @@
         "fMRI",
         "EEG"
     ],
-    "license": "https://spdx.org/licenses/GPL-3.0-or-later",
+    "license": "https://spdx.org/licenses/EUPL-1.2",
     "name": "Alzheimer's Disease Classification with Simulated and Empirical Features",
     "programmingLanguage": "Python 3",
     "relatedLink": [
