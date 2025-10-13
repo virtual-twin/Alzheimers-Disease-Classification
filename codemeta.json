@@ -15,7 +15,7 @@
             "givenName": "Kiret"
         }
     ],
-    "codeRepository": "https://git.bihealth.org/dhindsaj/Alzheimers-Disease-Classification",
+    "codeRepository": "https://github.com/virtual-twin/Alzheimers-Disease-Classification",
     "contributor": {
         "id": "_:contributor_1",
         "type": "Person",
@@ -28,8 +28,10 @@
         "givenName": "Petra"
     },
     "dateCreated": "2025-10-06",
+    "dateModified": "2025-10-06",
     "datePublished": "2025-10-06",
     "description": "ML Classification of Alzheimer's Disease vs. Mild Cognitive Impairment vs. Healthy Controls by combining empirical and simulated features as implemented for Triebkorn et al. 2022 ",
+    "downloadUrl": "https://github.com/virtual-twin/Alzheimers-Disease-Classification/archive/refs/tags/v1.0.0.zip",
     "funder": {
         "type": "Organization",
         "name": "EU Horizon, Berlin Institute of Health"
@@ -49,8 +51,10 @@
     "programmingLanguage": "Python 3",
     "relatedLink": [
         "https://alz-journals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/trc2.12303",
-        "https://github.com/kiretd/Alzheimers-Disease-Classification"
+        "https://github.com/kiretd/Alzheimers-Disease-Classification",
+        "https://git.bihealth.org/dhindsaj/Alzheimers-Disease-Classification"
     ],
+    "version": "1.0.0",
     "funding": "y EU H2020 Virtual Brain Cloud 826421, Human Brain Project SGA2 785907; Human Brain Project SGA3 945539, ERC Consolidator 683049; German Research Foundation SFB 1436 (project ID 425899996); SFB 1315 (project ID 327654276); SFB 936 (project ID 178316478; SFB-TRR 295 (project ID 424778381); SPP Computational Connectomics RI 2073/6-1, RI 2073/10-2, RI 2073/9-1; PHRASE Horizon EIC grant 101058240;",
     "issueTracker": "https://github.com/kiretd/Alzheimers-Disease-Classification/issues",
     "referencePublication": " 10.1002/trc2.12303"
